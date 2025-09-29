@@ -1,9 +1,0 @@
-.env
-.gitignore
-.venv
-__pycache__
-To Do List
-dave*
-ff_movie_list.py
-test_random_movie.py
-test_main.py
